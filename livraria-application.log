@@ -1,0 +1,109 @@
+2023-03-27T01:30:02.087Z[livraria-api] error POST  - Nome, email, telefone e endereço são obrigatórios.
+2023-03-27T02:46:28.787Z[livraria-api] error POST  - Nome, email, telefone e endereço são obrigatórios.
+2023-03-27T02:49:53.789Z[livraria-api] error POST  - column "created_at" of relation "clientes" does not exist
+2023-03-27T02:51:32.389Z[livraria-api] error POST  - column "created_at" of relation "clientes" does not exist
+2023-03-27T02:56:03.306Z[livraria-api] error POST  - column "created_at" of relation "clientes" does not exist
+2023-03-27T03:08:30.762Z[livraria-api] info GET /cliente
+2023-03-27T18:50:30.277Z[livraria-api] error GET  - id is not defined
+2023-03-27T18:50:45.579Z[livraria-api] error GET  - id is not defined
+2023-03-27T18:52:48.655Z[livraria-api] info GET /cliente
+2023-03-27T19:03:18.007Z[livraria-api] info GET /cliente
+2023-03-27T19:27:37.028Z[livraria-api] error GET  - password is not defined
+2023-03-27T19:29:06.416Z[livraria-api] info GET /cliente
+2023-03-27T20:26:34.216Z[livraria-api] info GET /livro
+2023-03-27T20:26:59.879Z[livraria-api] info GET /livro
+2023-03-27T20:28:56.831Z[livraria-api] info GET /venda
+2023-03-27T20:29:17.516Z[livraria-api] info GET /venda
+2023-03-27T20:31:01.972Z[livraria-api] error GET  - invalid input syntax for integer: "1da39a3ee5e6b4b0d3255bfef95601890afd80709"
+2023-03-27T20:31:42.826Z[livraria-api] info GET /venda
+2023-03-27T21:13:06.680Z[livraria-api] info GET /autor
+2023-03-27T21:18:47.048Z[livraria-api] error POST  - valor is not defined
+2023-03-27T21:20:58.449Z[livraria-api] error POST  - Unexpected token } in JSON at position 58
+2023-03-27T21:21:05.119Z[livraria-api] error POST  - valor is not defined
+2023-03-27T21:21:24.704Z[livraria-api] error POST  - valor is not defined
+2023-03-27T21:32:22.863Z[livraria-api] info GET /venda
+2023-03-27T21:39:54.857Z[livraria-api] error POST  - valor is not defined
+2023-03-27T21:42:14.276Z[livraria-api] error POST  - valor is not defined
+2023-03-27T21:51:37.892Z[livraria-api] info GET /venda
+2023-03-27T21:51:54.340Z[livraria-api] info GET /venda
+2023-03-27T21:52:31.307Z[livraria-api] info GET /venda
+2023-03-27T21:57:33.162Z[livraria-api] info GET /venda
+2023-03-27T21:57:59.937Z[livraria-api] info GET /venda
+2023-03-27T22:00:06.157Z[livraria-api] info GET /cliente
+2023-03-27T22:00:41.959Z[livraria-api] info GET /livro
+2023-03-27T22:20:01.374Z[livraria-api] error GET  - Livro is not defined
+2023-03-27T22:20:10.429Z[livraria-api] error GET  - Livro is not defined
+2023-03-27T22:21:45.379Z[livraria-api] info GET /venda
+2023-03-27T22:22:49.414Z[livraria-api] info GET /livro
+2023-03-27T22:29:00.556Z[livraria-api] info GET /livro
+2023-03-27T22:30:09.741Z[livraria-api] info GET /venda
+2023-03-27T23:01:21.859Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-27T23:06:44.700Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-27T23:38:16.174Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-27T23:57:59.846Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T00:04:50.088Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T00:10:51.409Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T00:11:20.167Z[livraria-api] info GET /livro
+2023-03-28T00:11:38.185Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:15:22.234Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:21:08.573Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:21:18.511Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:22:03.397Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:22:30.116Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:23:44.677Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:24:59.284Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T01:25:25.146Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T21:57:10.812Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T22:02:02.650Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T22:02:29.909Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T22:05:49.233Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T22:06:22.978Z[livraria-api] error GET  - invalid input syntax for integer: "info"
+2023-03-28T22:24:13.825Z[livraria-api] info POST /livro/info - {"livroId":6,"descricao":"O livro aborda na teoria a importância e utilização da autorização e autenticação em APIs com Node.js e Express","paginas":90,"editora":"Editora IGTI","avaliacoes":[],"_id":"6423690dfb8fa53c2e0b430d"}
+2023-03-28T22:44:52.132Z[livraria-api] info GET /livro
+2023-03-28T22:59:42.671Z[livraria-api] info GET /cliente
+2023-03-28T23:30:14.973Z[livraria-api] info GET /venda
+2023-03-28T23:30:53.221Z[livraria-api] info GET /venda
+2023-03-28T23:31:11.114Z[livraria-api] info GET /venda
+2023-03-29T00:43:21.674Z[livraria-api] info GET /venda
+2023-03-29T00:43:47.136Z[livraria-api] info GET /venda
+2023-03-29T00:49:03.326Z[livraria-api] info GET /venda
+2023-03-29T00:50:52.217Z[livraria-api] info GET /venda
+2023-03-29T00:55:07.075Z[livraria-api] info GET /cliente
+2023-03-29T01:00:37.007Z[livraria-api] info GET /cliente
+2023-03-29T01:01:31.069Z[livraria-api] error POST  - loggers is not defined
+2023-03-29T01:01:35.349Z[livraria-api] info GET /cliente
+2023-03-29T01:18:38.632Z[livraria-api] error PUT  - Cliente Id, Nome, email, senha, endereco e telefone são obrigatórios
+2023-03-29T01:19:18.674Z[livraria-api] info PUT /cliente - {"clienteId":6,"nome":"Alessandra Costa Silva","senha":"1234","email":"alecosta@gmail.com","telefone":"61998835914","endereco":"Rua dos Ventos 639, Serra-ES"}
+2023-03-29T01:19:24.217Z[livraria-api] info GET /cliente
+2023-03-30T01:02:20.460Z[livraria-api] info DELETE /client
+2023-03-30T01:02:24.884Z[livraria-api] info GET /cliente
+2023-03-30T01:09:37.339Z[livraria-api] error POST  - loggers is not defined
+2023-03-30T01:09:59.797Z[livraria-api] error POST  - valor is not defined
+2023-03-30T01:13:36.916Z[livraria-api] error POST  - valor is not defined
+2023-03-30T01:14:47.774Z[livraria-api] error POST  - valor is not defined
+2023-03-30T01:15:51.358Z[livraria-api] error POST  - valor is not defined
+2023-03-30T01:16:40.046Z[livraria-api] error POST  - Valor, data, clienet ID e livro ID são obrigatórios.
+2023-03-30T01:17:50.700Z[livraria-api] info POST /venda - {"valor":60,"data":"2000-10-20","clienteId":7,"livroId":2}
+2023-03-30T01:18:03.869Z[livraria-api] error DELETE  - venda is not defined
+2023-03-30T01:18:55.416Z[livraria-api] error DELETE  - error is not defined
+2023-03-30T01:20:09.346Z[livraria-api] error DELETE  - Não é possível excluir cliente com vendas cadastradas
+2023-03-30T01:36:20.572Z[livraria-api] error GET  - clientes.getAttribute is not a function
+2023-03-30T21:47:40.870Z[livraria-api] error POST  - loggers is not defined
+2023-03-30T21:48:21.299Z[livraria-api] info GET /autor
+2023-03-30T21:48:29.508Z[livraria-api] info GET /livro
+2023-03-30T21:50:54.750Z[livraria-api] error DELETE  - Não é possível excluir autor com livros vinculados
+2023-03-30T21:53:11.637Z[livraria-api] error PUT  - error is not defined
+2023-03-30T21:53:15.025Z[livraria-api] error PUT  - error is not defined
+2023-03-30T21:53:56.088Z[livraria-api] error PUT  - Unexpected string in JSON at position 16
+2023-03-30T21:54:04.669Z[livraria-api] error PUT  - error is not defined
+2023-03-30T21:55:22.471Z[livraria-api] info PUT /autor - {"autorId":4,"nome":"Gustavo Cerbasi Santos","email":"gcerbasi@gmail.com","telefone":"11987981010"}
+2023-03-30T21:56:16.527Z[livraria-api] info GET /autor
+2023-03-30T22:00:53.834Z[livraria-api] error POST  - loggers is not defined
+2023-03-30T22:01:32.541Z[livraria-api] info GET /livro
+2023-03-30T22:01:48.015Z[livraria-api] error PUT  - Unexpected string in JSON at position 16
+2023-03-30T22:07:02.897Z[livraria-api] info PUT /livro - {"livroId":7,"nome":"Mente Milionária 2","valor":"120","estoque":10,"autorId":4}
+2023-03-30T22:16:49.365Z[livraria-api] error DELETE  - clienteRepository is not defined
+2023-03-30T22:17:31.547Z[livraria-api] info DELETE /livro
+2023-04-03T17:18:05.528Z[livraria-api] error GET  - invalid input syntax for integer: "graphql"
+2023-04-03T17:19:30.953Z[livraria-api] info GET /cliente
+2023-04-03T17:20:12.556Z[livraria-api] error GET  - invalid input syntax for integer: "graphql"
